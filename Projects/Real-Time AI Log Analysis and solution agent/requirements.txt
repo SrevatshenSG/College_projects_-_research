@@ -1,0 +1,9 @@
+langchain==0.1.20
+langchain-google-genai==0.0.11
+langchain_community==0.0.38
+faiss-cpu==1.8.0
+python-dotenv==1.0.1
+pypdf==4.2.0
+tqdm==4.67.1
+pandas==2.3.0             # Explicitly included as it's used in parsing/data handling
+unstructured[all-extra]==0.14.4 # For broader document loading (e.g., .docx, .xlsx, complex
