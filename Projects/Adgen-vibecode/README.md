@@ -1,6 +1,6 @@
 # AdGen - AI-Powered Ad Campaign Generator
 
-A modern React application for generating AI-powered advertising campaigns with a beautiful, responsive UI built with TypeScript, Tailwind CSS, and Vite.
+A fully VIBECODED modern React application for generating AI-powered advertising campaigns with a beautiful, responsive UI built with TypeScript, Tailwind CSS, and Vite.
 
 ## 🚀 Tech Stack
 
@@ -335,4 +335,4 @@ For support and questions:
 
 ---
 
-**Built with ❤️ using React, TypeScript, and Tailwind CSS** 
+**Built with using React, TypeScript, and Tailwind CSS** 
