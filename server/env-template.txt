@@ -1,0 +1,18 @@
+# Server Configuration
+PORT=3002
+NODE_ENV=development
+
+# MongoDB Configuration
+# Replace with your MongoDB connection string
+# For local MongoDB: mongodb://localhost:27017/adgen
+# For MongoDB Atlas: mongodb+srv://username:password@cluster.mongodb.net/adgen
+MONGO_URI=mongodb://localhost:27017/adgen
+
+# OpenAI Configuration
+# Get your API key from: https://platform.openai.com/api-keys
+# Replace 'your_openai_api_key_here' with your actual OpenAI API key
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Frontend URL (for CORS)
+# Update this to match your frontend URL
+FRONTEND_URL=http://localhost:5173 
